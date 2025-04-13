@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-** # Driver Behavior SDK**
+# Driver Behavior SDK
 
 This SDK enables analysis of driver behavior data using AI.
 
